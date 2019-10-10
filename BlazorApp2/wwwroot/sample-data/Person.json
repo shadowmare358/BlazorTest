@@ -1,0 +1,17 @@
+﻿[
+  {
+    "FirstName": "Tim",
+    "LastName": "Correy",
+    "AccountBalance": 19.45
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Jones",
+    "AccountBalance": 105.87
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Smith",
+    "AccountBalance": 115.32
+  }
+]
